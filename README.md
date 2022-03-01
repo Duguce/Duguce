@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>HELLO 👋</h1>
 <br><li><b>个人简介</b></li>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <br>- 🔭 管理科学与工程专业在读
