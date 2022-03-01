@@ -1,5 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 ### Hi there 👋
-
+- 🔭 管理科学与工程专业在读
+- 🌱 自学Python / 机器学习 / 深度学习
+- 🤔 研究方向：数据分析 / 机器学习
+- 📫 邮箱：zhgyqc@163.com
 <!--
 **Duguce/Duguce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
