@@ -1,9 +1,10 @@
+<h1>Hi there 👋</h1>
+<br><li><b>个人简介</b></li>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-### Hi there 👋
-- 🔭 管理科学与工程专业在读
-- 🌱 自学Python / 机器学习 / 深度学习
-- 🤔 研究方向：数据分析 / 机器学习
-- 📫 邮箱：zhgyqc@163.com
+<br>- 🔭 管理科学与工程专业在读
+<br>- 🌱 自学Python / 机器学习 / 深度学习
+<br>- 🤔 研究方向：数据分析 / 机器学习
+<br>- 📫 邮箱：zhgyqc@163.com
 <!--
 **Duguce/Duguce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
