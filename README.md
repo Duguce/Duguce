@@ -1,5 +1,5 @@
 <h1>HELLO 👋</h1>
-<br><li><b>个人简介</b></li>
+<br><b>⚡ 个人简介</b>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <br>- 🔭 管理科学与工程专业在读
 <br>- 🌱 自学Python / 机器学习 / 深度学习
