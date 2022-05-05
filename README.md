@@ -13,14 +13,15 @@
 
 - Python基础
   - 基础知识及语法
-    - 书籍 *Python编程：从入门到实践* *作者：埃里克·马瑟斯* :heavy_check_mark:
+    - 书籍 *Python编程：从入门到实践 作者：埃里克·马瑟斯* :heavy_check_mark:
   - 数据分析常用库
-    - NumPy、Pandas、Matplotlib、Seaborn、Scipy、Sklearn 🌱正在学习中···
+    - NumPy、Pandas、Matplotlib、Seaborn、SciPy、Sklearn 🌱正在学习中···
 - 机器学习
   - [吴恩达机器学习](https://www.coursera.org/learn/machine-learning) 🌱正在学习中···
     - [课程资料及我的作业实现代码](https://github.com/Duguce/Coursera-ML-AndrewNg-Homework)
   - 李航统计学习方法
-  - 台大林轩田机器学习
+  - [台大林轩田机器学习](https://www.youtube.com/c/hsuantien/playlists)
+  - [李宏毅机器学习](https://www.youtube.com/c/HungyiLeeNTU)
   - 周志华机器学习（西瓜书）
 - TensorFlow / PyTorch基础
 - 深度学习
