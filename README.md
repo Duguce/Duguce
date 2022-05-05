@@ -1,7 +1,7 @@
 # 👋 关于我
 
-关于我的一些基本情况
-
+🤔 我的一些基本情况
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 - 管理科学与工程专业在读
 - 自学Python / 机器学习 / 深度学习
 - 研究方向：数据分析 / 自然语言处理
@@ -9,7 +9,7 @@
 
 # :v: 学习计划
 
-关于未来两年左右的编程技术学习计划 (2022年3月1日 ==> 2024年3月1日)
+😄 关于未来两年左右的编程技术学习计划 (2022年3月1日 ==> 2024年3月1日)
 
 - Python基础
   - 基础知识及语法
