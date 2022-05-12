@@ -22,6 +22,7 @@
   - 李航统计学习方法
   - [台大林轩田机器学习](https://www.youtube.com/c/hsuantien/playlists)
   - [李宏毅机器学习](https://www.youtube.com/c/HungyiLeeNTU)
+  - [加州理工机器学习](https://home.work.caltech.edu/telecourse.html)
   - 周志华机器学习（西瓜书）
 - TensorFlow / PyTorch基础
 - 深度学习
