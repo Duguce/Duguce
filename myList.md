@@ -53,7 +53,7 @@
 
 | 序号 |                             名称                             | 类型 | 备注 |
 | :--: | :----------------------------------------------------------: | :--: | :--: |
-|  1   | [吴恩达深度学习](https://www.bilibili.com/video/BV1B7411L7Qt?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=0107121ae6b1cce515e0c483ec265833) | 课程 |      |
+|  1   | [吴恩达深度学习](https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=0107121ae6b1cce515e0c483ec265833) | 课程 |      |
 
 ## 6 自然语言处理
 
