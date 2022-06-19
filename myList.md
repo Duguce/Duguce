@@ -15,7 +15,7 @@
 
 ## 项目简述
 
-![我的人工智能学习资料清单](D:\Git_Code_Repositories\Duguce\images\我的人工智能学习资料清单.jpg)
+![我的人工智能学习资料清单](images/我的人工智能学习资料清单.jpg)
 
 ## 1 学习方法路线指南
 
