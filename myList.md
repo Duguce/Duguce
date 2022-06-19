@@ -1,18 +1,18 @@
 # 我的人工智能学习资料清单
 
-- [我的人工智能学习资料清单](#我的人工智能学习资料清单)
-  - [1 项目简述](#1-项目简述)
-  - [2 Python基础](#2-python基础)
-    - [2.1 基础知识及语法](#21-基础知识及语法)
-    - [2.2 常用第三方库](#22-常用第三方库)
-  - [3 机器学习](#3-机器学习)
-  - [4 TensorFlow/PyTorch基础](#4-tensorflowpytorch基础)
-  - [5 深度学习](#5-深度学习)
-  - [6 自然语言处理](#6-自然语言处理)
-
-## 1 项目简述
-
 本文主要记录我在人工智能入门学习路上使用的学习资料...
+
+[TOC]
+
+## 项目简述
+
+![我的人工智能学习资料清单](D:\Git_Code_Repositories\Duguce\images\我的人工智能学习资料清单.svg)
+
+## 1 学习方法路线指南
+
+[首发：适合初学者入门人工智能的路线及资料下载](https://mp.weixin.qq.com/s/t7_FNmUirLvEjFN6hb6bhQ) （来源：微信公众号-机器学习初学者）
+
+[我的机器学习入门路线图](https://redstonewill.com/1440/) （来源：[红色石头个人博客](https://redstonewill.com/)）
 
 ## 2 Python基础
 
@@ -36,7 +36,8 @@
 
 | 序号 |                             名称                             | 类型 |                             备注                             |
 | :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
-|  1   | [吴恩达机器学习](https://www.coursera.org/learn/machine-learning) | 课程 | [课程资料及我的作业实现代码](https://github.com/Duguce/Coursera-ML-AndrewNg-Homework) |
+|  1   | [吴恩达机器学习](https://www.coursera.org/learn/machine-learning) | 课程 | [课程资料及我的作业实现代码](https://github.com/Duguce/Coursera-ML-AndrewNg-Homework)<br/>（2022年6月吴恩达老师已经更新了基于Python版的新课程） |
+|      |                                                              |      |                                                              |
 |  2   | [统计学习方法（第2版）](https://book.douban.com/subject/33437381/) | 书籍 |                                                              |
 |  3   | [周志华机器学习](https://book.douban.com/subject/26708119/)  | 书籍 |                                                              |
 |  4   | [台大林轩田机器学习](https://www.youtube.com/c/hsuantien/playlists) | 课程 |                                                              |
