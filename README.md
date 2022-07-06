@@ -18,7 +18,7 @@
   - 基础知识及语法
   - 数据分析常用库
 - 机器学习
-- TensorFlow / PyTorch基础
+- PyTorch / TensorFlow基础
 - 深度学习
 - 自然语言处理
 - 爬虫
