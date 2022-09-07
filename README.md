@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Duguce!
 
+![Visitor Count](https://profile-counter.glitch.me/Duguce/count.svg)
+
+
+
 🤔 我的一些基本情况
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
