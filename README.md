@@ -1,52 +1,29 @@
-# 👋 Hi there, I'm Duguce!
+## 👋 About Me
 
-🤔 我的一些基本情况
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+👨‍🎓 I'm Duguce, a master's student at Shanghai University who is passionate about coding and continuously striving to learn new programming skills.
 
-- 管理科学与工程专业在读
-- 自学Python / 机器学习 / 深度学习
-- 研究方向：数据分析 / 自然语言处理
-- 邮箱：zhgyqc@163.com
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=black&text_color=718096&bg_color=00000000&hide_title=true&line_height=24&v=5&style=flat" />
 
-# :v: Todoist
+**🌱 Currently**
 
-🌱 我所使用的相关学习资料情况参考[《我的人工智能学习资料清单》](https://github.com/Duguce/Duguce/blob/main/myList.md)
+- Learning Transformer with TensorFlow
+- ...
 
-😄 关于未来两年左右的编程技术学习计划， (2022年3月1日 ==> 2024年3月1日)
+**📫 Contact**
 
-- Python基础
-  - 基础知识及语法
-  - 数据分析常用库
-- 机器学习
-- PyTorch / TensorFlow基础
-- 深度学习
-- 自然语言处理
-- 爬虫
-- 数据结构与算法
-- MySQL
-- Linux基础
-- ······
+- Email: [zhgyqc@163.com](mailto:zhgyqc@163.com)
 
-<!--
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
+- 🐍 Python
+  - 📊 `Pandas`, `NumPy`, `Matplotlib`
+  - 🕸️ `Requests`, `BeautifulSoup`, `Selenium`
+  - 🌐 `Flask`, `Django`
+  - 🤖 `scikit-learn`, `TensorFlow`, `Keras`
+- 🗄️ MySQL
+- 🐧 Linux
+- ...
 
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
-- :white_check_mark:
-
-- :black_square_button:
-
-  -->
+<a href="https://github.com/antonkomarev/github-profile-views-counter?username=Duguce">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Duguce&style=flat-square&color=blueviolet">
+</a>
