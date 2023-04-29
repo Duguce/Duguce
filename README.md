@@ -1,6 +1,8 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Duguce&style=flat-square&color=blueviolet">
+
 ## 👋 About Me
 
-👨‍🎓 I'm Duguce, a master's student at Shanghai University who is passionate about coding and continuously striving to learn new programming skills.
+👨‍🎓 Hi there! I'm Duguce, a master's student at Shanghai University 🎓 who is passionate about coding 💻 and continuously striving to learn new programming skills 🚀.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Duguce&show_icons=true&icon_color=black&text_color=718096&bg_color=00000000&hide_title=true&line_height=24&v=5&style=flat" />
 
@@ -18,11 +20,11 @@
 - 🐍 Python
   - 📊 `Pandas`, `NumPy`, `Matplotlib`
   - 🕸️ `Requests`, `BeautifulSoup`, `Selenium`
-  - 🌐 `Flask`, `Django`
+  - 🌐 `Django`
   - 🤖 `scikit-learn`, `TensorFlow`, `Keras`
 - 🗄️ MySQL
 - 🐧 Linux
 - ...
 
 
-  <img align="right" src="https://komarev.com/ghpvc/?username=Duguce&style=flat-square&color=blueviolet">
+
