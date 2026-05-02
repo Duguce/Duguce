@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Duguce&style=flat-square&color=blueviolet">
 
-👨‍🎓 AI Ph.D. Student @ Beihang University
+🌐 [zhgyqc.site](https://zhgyqc.site) · Building, learning, and exploring.
 
 
 
