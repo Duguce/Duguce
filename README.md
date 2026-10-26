@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Duguce&style=flat-square&color=blueviolet">
+<img align="right" src="https://komarev.com/ghpvc/?username=Duguce&amp;style=flat&amp;color=8575ce&amp;label=views" alt="Profile views" height="18">
 
 🌐 [zhgyqc.site](https://zhgyqc.site) · Building, learning, and exploring.
 
