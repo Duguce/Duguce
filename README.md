@@ -2,12 +2,11 @@
 
 🌐 [zhgyqc.site](https://zhgyqc.site) · Building, learning, and exploring.
 
-
-
-
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Duguce&amp;show_icons=true&amp;hide=contribs&amp;custom_title=Duguce%27s%20GitHub%20Stats&amp;bg_color=00000000&amp;border_radius=12&amp;card_width=480&amp;line_height=28&amp;text_bold=false&amp;number_format=long&amp;disable_animations=true&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;ring_color=a78bfa&amp;text_color=c9d1d9&amp;border_color=30363d">
-    <img src="https://github-stats-extended.vercel.app/api?username=Duguce&amp;show_icons=true&amp;hide=contribs&amp;custom_title=Duguce%27s%20GitHub%20Stats&amp;bg_color=00000000&amp;border_radius=12&amp;card_width=480&amp;line_height=28&amp;text_bold=false&amp;number_format=long&amp;disable_animations=true&amp;title_color=8250df&amp;icon_color=8250df&amp;ring_color=8250df&amp;text_color=424a53&amp;border_color=d8dee4" alt="Duguce's GitHub statistics" width="480">
-  </picture>
+  <a href="https://github.com/Duguce">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Duguce&amp;show_icons=true&amp;hide=contribs&amp;custom_title=GitHub+Overview&amp;border_radius=16&amp;card_width=460&amp;line_height=26&amp;text_bold=false&amp;number_format=long&amp;disable_animations=true&amp;bg_color=0%2C141820%2C1b1e2b&amp;title_color=e7eaf0&amp;icon_color=a599dd&amp;ring_color=a599dd&amp;text_color=b6bfce&amp;border_color=2b3040">
+      <img src="https://github-stats-extended.vercel.app/api?username=Duguce&amp;show_icons=true&amp;hide=contribs&amp;custom_title=GitHub+Overview&amp;border_radius=16&amp;card_width=460&amp;line_height=26&amp;text_bold=false&amp;number_format=long&amp;disable_animations=true&amp;bg_color=0%2Cffffff%2Cf7f8fc&amp;title_color=30364a&amp;icon_color=8575ce&amp;ring_color=9381de&amp;text_color=596275&amp;border_color=e5e7ef" alt="Duguce’s GitHub activity: stars, commits, pull requests, issues, and rank" width="420">
+    </picture>
+  </a>
 </p>
